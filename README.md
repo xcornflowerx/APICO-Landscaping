@@ -23,3 +23,13 @@ Path decorations:
 - Paths will be provided as a 3x3 grid with each section being 16x16.
 - Path decorations that have been placed down will be interactable with a hammer. 
 - Hammered path decorations will disappear into the void.
+
+**POC:**
+
+Support one path design to start. 
+
+**After POC & Future Work:**
+
+Support multiple path designs.
+
+The landscaping menu will have `<` and `>` buttons that let you flip through "pages" of the different available path designs.
