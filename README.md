@@ -32,6 +32,8 @@ Support one path design to start.
 
 ### After POC & Future Work:
 
+Support placing items on path decorations (like placing an item centrally on a table).
+
 Support multiple path designs.
 
 The landscaping menu will have `<` and `>` buttons that let you flip through "pages" of the different available path designs.
